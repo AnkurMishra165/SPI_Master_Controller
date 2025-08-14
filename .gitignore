@@ -1,0 +1,29 @@
+# Vivado project temporary files
+*.jou
+*.log
+*.str
+*.tmp
+*.tcl~
+*.xml
+*.html
+*.zip
+
+# Vivado cache and build output
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.srcs/
+*.Xil/
+*.gen/
+
+# Simulation results
+*.wdb
+*.vcd
+*.pb
+*.dcp
+
+# OS-specific
+.DS_Store
+Thumbs.db
